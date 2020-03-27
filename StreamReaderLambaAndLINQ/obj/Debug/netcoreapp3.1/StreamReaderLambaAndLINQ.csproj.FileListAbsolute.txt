@@ -1,0 +1,13 @@
+C:\Users\jonat\Documents\C#\Projects\StreamReaderLambaAndLINQ\StreamReaderLambaAndLINQ\bin\Debug\netcoreapp3.1\StreamReaderLambaAndLINQ.exe
+C:\Users\jonat\Documents\C#\Projects\StreamReaderLambaAndLINQ\StreamReaderLambaAndLINQ\bin\Debug\netcoreapp3.1\StreamReaderLambaAndLINQ.deps.json
+C:\Users\jonat\Documents\C#\Projects\StreamReaderLambaAndLINQ\StreamReaderLambaAndLINQ\bin\Debug\netcoreapp3.1\StreamReaderLambaAndLINQ.runtimeconfig.json
+C:\Users\jonat\Documents\C#\Projects\StreamReaderLambaAndLINQ\StreamReaderLambaAndLINQ\bin\Debug\netcoreapp3.1\StreamReaderLambaAndLINQ.runtimeconfig.dev.json
+C:\Users\jonat\Documents\C#\Projects\StreamReaderLambaAndLINQ\StreamReaderLambaAndLINQ\bin\Debug\netcoreapp3.1\StreamReaderLambaAndLINQ.dll
+C:\Users\jonat\Documents\C#\Projects\StreamReaderLambaAndLINQ\StreamReaderLambaAndLINQ\bin\Debug\netcoreapp3.1\StreamReaderLambaAndLINQ.pdb
+C:\Users\jonat\Documents\C#\Projects\StreamReaderLambaAndLINQ\StreamReaderLambaAndLINQ\obj\Debug\netcoreapp3.1\StreamReaderLambaAndLINQ.csprojAssemblyReference.cache
+C:\Users\jonat\Documents\C#\Projects\StreamReaderLambaAndLINQ\StreamReaderLambaAndLINQ\obj\Debug\netcoreapp3.1\StreamReaderLambaAndLINQ.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\C#\Projects\StreamReaderLambaAndLINQ\StreamReaderLambaAndLINQ\obj\Debug\netcoreapp3.1\StreamReaderLambaAndLINQ.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\C#\Projects\StreamReaderLambaAndLINQ\StreamReaderLambaAndLINQ\obj\Debug\netcoreapp3.1\StreamReaderLambaAndLINQ.AssemblyInfo.cs
+C:\Users\jonat\Documents\C#\Projects\StreamReaderLambaAndLINQ\StreamReaderLambaAndLINQ\obj\Debug\netcoreapp3.1\StreamReaderLambaAndLINQ.dll
+C:\Users\jonat\Documents\C#\Projects\StreamReaderLambaAndLINQ\StreamReaderLambaAndLINQ\obj\Debug\netcoreapp3.1\StreamReaderLambaAndLINQ.pdb
+C:\Users\jonat\Documents\C#\Projects\StreamReaderLambaAndLINQ\StreamReaderLambaAndLINQ\obj\Debug\netcoreapp3.1\StreamReaderLambaAndLINQ.genruntimeconfig.cache
