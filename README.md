@@ -1,9 +1,9 @@
 # StreamReader Lamba & LINQ
 ## Problem Statement
 
-Make a program to read the data (name, email and salary) of employees from the file in format.csv.
-Then show, in alphabetical order, the email of employees whose salary is higher than a given amount provided by the user.
-Also show the sum of the salaries of employees whose name starts with the letter 'M'.
+Make a program to read the details (name, email and salary) of the employees from a format file .csv.
+Then output, in alphabetical order, the email of employees whose salary is higher than a given amount provided by the user.
+Also output the sum of the salaries of employees whose the name starts with the letter 'M'.
 
 * Input file (.csv):
 ``` 
